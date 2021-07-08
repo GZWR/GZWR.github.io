@@ -1,2 +1,2 @@
 # Introduction
-基于Hexa的个人博客。
+基于hexo的个人博客。
